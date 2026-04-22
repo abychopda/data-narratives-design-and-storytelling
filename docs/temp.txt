@@ -1,0 +1,1 @@
+Documents like the data dictionary, and details about the persona, user stories, methodology etc will be stored here.
