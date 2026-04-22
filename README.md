@@ -33,3 +33,36 @@ data-narrative-studio-project/
 │
 └── misc/
 ├── miscellaneous files
+
+Sample README file content ->
+# Data Narrative Studio Project
+
+## 🎯 Objective
+Explain your story + stakeholder
+
+## 👤 Target Persona
+Who are you designing for?
+
+## 📊 Dataset
+Source, why it's rich
+
+## 📖 Narrative Arc
+Which one you chose and why
+
+## ⚙️ Tools
+- Power BI
+- GitHub
+- etc.
+
+## 🚀 Features
+- Context-aware filtering
+- Tooltips
+- etc.
+
+## 📂 Project Structure
+
+## 📘 Data Dictionary
+(link)
+
+## 👥 Team
+Roles + contributions
