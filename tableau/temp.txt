@@ -1,1 +1,1 @@
-Folder to store the dashboard.pbix files
+Folder to store the tableau dashboard files
