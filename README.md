@@ -158,43 +158,6 @@ Each row represents one state for one month.
 
 ---
 
-# Key Calculated Metrics
-
-## Mortgage Burden Ratio
-
-Measures the proportion of monthly income spent on mortgage payments.
-
-```text
-Monthly Mortgage Payment / Monthly Income
-
-```
-data-narrative-studio-project/
-│
-├── README.md
-├── .gitignore
-├── .DS_Store
-│
-├── data/
-│   ├── raw datasets/                # Original datasets (unaltered)
-│   └──final processed dataset/          # Cleaned and transformed data
-│   
-├── tableau/
-│   └── US HOUSING AFFORDABILITY CRISIS GROUP27.TWBX      # TABLEAU dashboard file
-│
-├── docs/
-│   └── Gameplan      # Project Gameplan
-│
-├── reports/
-│   ├── final_presentation.pptx
-│   └── visuals_export/     # Exported charts/images
-│
-├── pitch slides/   
-│   └── DVN Presentation
-│
-└── misc/
-    ├── Exported Calculated Fields.ipynb/      # Calculated Fields 
-    └── correlation_matrix.png/
-```
 
 ## 👥 Team
 | Name | Roles | Contribution | Student ID |
@@ -206,3 +169,5 @@ data-narrative-studio-project/
 | Harshini Prasad  | Data Vizualization | Vizualization, Presentation and Documentation | 26025369 |
 | Ka Yan Cheng   | Data Vizualization and Powerpoint Artist | Project Approach, Data Cleaning and Vizualization | 25979218 |
 | Ranjan Khanal   | Data Engineer and Documentation | Data Cleaning, Vizualization and Documentation | 25946613 |
+
+---
