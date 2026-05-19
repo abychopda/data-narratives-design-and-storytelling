@@ -156,10 +156,6 @@ The simulator dynamically recalculates:
 
 ## 🌐 Live Dashboard
 
-> Add Tableau Public link here
-
-Example:
-
 ```text
 https://public.tableau.com/app/profile/harshini.prasad/viz/USHOUSINGAFFORDABILITYCRISISGROUP27/Overview?publish=yes
 ```
@@ -167,10 +163,6 @@ https://public.tableau.com/app/profile/harshini.prasad/viz/USHOUSINGAFFORDABILIT
 ---
 
 ## 🎥 Video Walkthrough
-
-> Add recording/demo link here
-
-Example:
 
 ```text
 https://drive.google.com/drive/folders/1B02JfMsi4uJ-q_IQ8aSgSUA1lRLq3Boe
