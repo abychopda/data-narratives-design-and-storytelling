@@ -264,9 +264,9 @@ data-narratives-design-and-storytelling/
 | Abhishek Chopda | Project Co-Manager and Github Lead | Project Management and Design and Presentation  | 25611094 |
 | Ferdinando Jr Enriquez  | Project Manager | Project Management and Design and Presentation | 25935343 |
 | Gem He  | Data Engineer and Powerpoint Artist | Data Cleaning and Preparation, Presentation Approach | 25992948 |
-| Harshini Prasad  | Data Vizualization | Vizualization, Presentation and Documentation | 26025369 |
-| Ka Yan Cheng   | Data Vizualization and Powerpoint Artist | Project Approach, Data Cleaning and Vizualization | 25979218 |
-| Ranjan Khanal   | Data Engineer and Documentation | Data Cleaning, Vizualization and Documentation | 25946613 |
+| Harshini Prasad  | Data Vizualization | Vizualization and Documentation | 26025369 |
+| Ka Yan Cheng   | Data Vizualization and Powerpoint Artist | Project Approach and Vizualization | 25979218 |
+| Ranjan Khanal   | Data Engineer and Documentation | Data Cleaning and Documentation | 25946613 |
 
 ---
 
