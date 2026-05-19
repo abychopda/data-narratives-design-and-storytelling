@@ -156,17 +156,17 @@ The simulator dynamically recalculates:
 
 ## 🌐 Live Dashboard
 
-```text
-https://public.tableau.com/app/profile/harshini.prasad/viz/USHOUSINGAFFORDABILITYCRISISGROUP27/Overview?publish=yes
-```
+
+**[Live Tableau Dashboard](https://public.tableau.com/app/profile/harshini.prasad/viz/USHOUSINGAFFORDABILITYCRISISGROUP27/Overview?publish=yes)**
+
 
 ---
 
 ## 🎥 Video Walkthrough
 
-```text
-https://drive.google.com/drive/folders/1B02JfMsi4uJ-q_IQ8aSgSUA1lRLq3Boe
-```
+
+**[Dashboard Video Walkthrough](https://drive.google.com/drive/folders/1B02JfMsi4uJ-q_IQ8aSgSUA1lRLq3Boe)**
+
 
 ---
 
